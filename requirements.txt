@@ -22,6 +22,9 @@ plotly>=5.15.0
 wordcloud>=1.9.0
 pyLDAvis>=3.4.0
 
+# Web Dashboard
+streamlit>=1.30.0
+
 # Utilities
 tqdm>=4.65.0
 kagglehub>=0.1.0
